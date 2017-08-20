@@ -2,7 +2,7 @@
 This is an sample project of Annotation Processing. AutoBuilder generates Buidler of the class you annotated.
 
 ## Usage
-Add an `@Buildable` annotation to your class that you want to be a builder and `@BuilderField` annotations to your fields.
+Add an `@Buildable` annotation to your class and `@BuilderField` annotations to your fields.
 ```java
 @Buildable 
 class User {
