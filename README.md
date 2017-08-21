@@ -1,5 +1,5 @@
 # AutoBuilder
-This is an sample project of Annotation Processing. AutoBuilder generates Buidler of the class you annotated.
+This is an sample project of Annotation Processing. AutoBuilder generates a Buidler of a class you annotated.
 
 ## Usage
 Add an `@Buildable` annotation to your class and `@BuilderField` annotations to your fields.
